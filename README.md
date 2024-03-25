@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Hi there, I AM EAC0D3Rx 😎 I am a Software Developer with Python. Cyber Expert.
+### Hi there, I AM EAC0D3Rx 😎 A NEW WORLD, A NEW LIFE, HERE IS THE TIME
 
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/zekayasaygiduy) <a href="https://t.me/Qea404"><img src="https://img.shields.io/badge/Telegram-Contact%20Telegram%20Profile-blue.svg?logo=telegram"></a> [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@iamc0d3rx)
