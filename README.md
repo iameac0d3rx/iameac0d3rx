@@ -4,7 +4,7 @@
 ![78D73445-0922-4D0E-8D03-2D667E42A65C_1_105_c](https://github.com/iameac0d3rx/iameac0d3rx/assets/163005532/cbef086c-2529-4199-93ef-6cc9c924fbfb)
 
 ## 🌐 Socials:
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/zekayasaygiduy) <a href="https://t.me/Qea404"><img src="https://img.shields.io/badge/Telegram-Contact%20Telegram%20Profile-blue.svg?logo=telegram"></a> [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@iamc0d3rx)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/zekayasaygiduy) <a href="https://t.me/iameac0d3rx"><img src="https://img.shields.io/badge/Telegram-Contact%20Telegram%20Profile-blue.svg?logo=telegram"></a> [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@iamc0d3rx)
 </p><p align="left"> 
 
 # 💻 Coding Languages:
